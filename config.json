@@ -2,25 +2,25 @@
   "components": [
     {
       "path": "components/app-crm-card-middle",
-      "label": "App (CRM card - middle panel)",
+      "label": "App (CRM card - middle panel) (camden verion)",
       "insertPath": "./"
     },
     {
       "path": "components/app-crm-card-side",
-      "label": "App (CRM card - side panel)",
+      "label": "App (CRM card - side panel) (camden verion)",
       "insertPath": "./"
     }
   ],
   "projects": [
     {
       "name": "getting-started",
-      "label": "Use CRM getting started project",
+      "label": "Use camden's custom getting started project",
       "path": "projects/getting-started-template",
       "insertPath": "./"
     },
     {
       "name": "no-template",
-      "label": "No, start from scratch",
+      "label": "No, start from scratch (camden verion)",
       "path": "projects/no-template",
       "insertPath": "./"
     }
